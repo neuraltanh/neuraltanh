@@ -8,6 +8,7 @@
     </td>
   </tr>
 </table>
+
 ## 🛠 Skills
 Python • TypeScript • Ruby • Rust • SQL • Machine Learning • Deep Learning • NLP • LLMs • RAG • PyTorch • TensorFlow • Scikit-learn • FastAPI • Flask • Node.js • React • Docker • Kubernetes • AWS • GCP • PostgreSQL • Redis • Git
 
