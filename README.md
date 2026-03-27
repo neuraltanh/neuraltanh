@@ -1,4 +1,8 @@
-<h3>AI/ML Engineer building practical AI products and scalable systems.</h3>
+
+<p align="left">
+  AI/ML Engineer building practical AI products and scalable systems.
+  <img src="./assets/microsoft.svg" alt="Microsoft" width="22" height="22" />
+</p>
 
 ## 🛠 Skills
 Python • TypeScript • Ruby • Rust • SQL • Machine Learning • Deep Learning • NLP • LLMs • RAG • PyTorch • TensorFlow • Scikit-learn • FastAPI • Flask • Node.js • React • Docker • Kubernetes • AWS • GCP • PostgreSQL • Redis • Git
